@@ -1,3 +1,6 @@
 # Project0 
 
-This is my first time ever using GitHub. It is February 5th, 2021. Im currently enrolled in Applied Machine Learning(Data 310) and Neural Network & Deep Learning (Data 442), so I hope to post many more projects throughout the semester! 
+-----------
+-----------
+
+Here is my first attempt at creating a GitHub page. Im currently enrolled in Applied Machine Learning(Data 310)and Neural Networks & Deep Learning (Data 442), so this is the first of many projects that I will be posting. Hopefully hey'll start to look a little less boring as the semester goes on
